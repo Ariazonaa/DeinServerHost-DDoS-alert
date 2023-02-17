@@ -1,6 +1,6 @@
 const RequestDelay = 30; //in seconds
 const WebHookUrl = "YOUR DISCORD WEBHOOK"; //Discord webhook
-const API_REQ_IPS = ['YOUR IP']; // Server ip can blacklist via Support
+const API_REQ_IPS = ['YOUR IP']; // Server ip can whitelist via Support
 const UserID = "YOUR DISCORD ID"; // Discord id for ping when DDoS 
 const TOKEN = 'YOU DSH API-TOKEN'; //DeinServreHost API Token can get via Support
 /////////////////////////////////////////////////////////////////
